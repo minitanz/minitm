@@ -237,7 +237,7 @@ function create_config( )
     "leave_ban"
     },
     sudo_users = {106630608},--Sudo users
-    disabled_channels = {@minitanz},
+    disabled_channels = {},
     moderation = {data = 'data/moderation.json'},
     about_text = [[fulltm 2.3
     
